@@ -4,3 +4,5 @@ Saved
 *.lnk
 node_modules/
 *~
+Binaries
+Build
